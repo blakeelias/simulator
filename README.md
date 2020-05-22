@@ -39,6 +39,8 @@ All the experiments were executed using Python 3. In order to create a virtual e
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
+
+sudo apt-get install texlive-fonts-recommended texlive-fonts-extra dvipng cm-super
 ```
 
 ## Code organization
